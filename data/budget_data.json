@@ -1,0 +1,11 @@
+{
+    "transactions": [
+        {
+            "type": "income",
+            "amount": 13234.0,
+            "category": "chori",
+            "description": "galat baat hai",
+            "date": "2026-09-30"
+        }
+    ]
+}
