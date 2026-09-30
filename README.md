@@ -68,15 +68,8 @@ personal-budget-tracker/
 ├── tests/
 │   └── test_budget.py
 │
-├── docs/
-│   ├── system_architecture.md
-│   ├── workflow.md
-│   └── design_notes.md
-│
 ├── README.md
 ├── statement.md
-├── requirements.txt
-└── .gitignore
 ```
 
 ## 6. Installation
